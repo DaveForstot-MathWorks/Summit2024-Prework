@@ -1,6 +1,6 @@
 # Summit2024-Prework
 
-# Modified by Dave after forking!
+# Modified again by Dave
 
 This is for AE 2024 PFT Summit preparation: Software Development Workflows
 
